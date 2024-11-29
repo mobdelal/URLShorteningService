@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AGY04n0yDFf+aTlsciPFnmhmGFNIGltMJXCTrfKqplM=",
+  "Source": "URLshortenerAPI",
+  "BasePath": "_content/URLshortenerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
